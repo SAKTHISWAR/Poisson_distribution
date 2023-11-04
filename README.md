@@ -73,7 +73,7 @@ else:
 ``` 
 
 # Output : 
-![image]()
+![image](https://github.com/SAKTHISWAR/Poisson_distribution/blob/main/p2.png)
 
 
 # Results
